@@ -152,7 +152,7 @@ body {
 			onsubmit="sendThesis() ">
 			<br> <input placeholder="Subject" type="text" id="subject" name="Subject" required><br>
 			 <br> <input placeholder="Professor" type="text" id="professor" name="Professor" required><br> 
-			 <!--  <br> <input placeholder="department" type="text" id="department" name="Department" required><br> -->
+			
 <br>
 			<select id="department">
 			    <option balue="" selected="true" disabled="true">--Επιλογή--</option>
@@ -166,7 +166,7 @@ body {
 				<option value="pgeo">Τμήμα Γεωγραφίας-Μεταπτυχιακό</option>
 			</select> 
 			<br>
-			<br> <input placeholder="Professor" type="text" id="description" name="Description" required><br>
+			<br> <input placeholder="Description" type="text" id="description" name="Description" required><br>
 			<br> <input value="Υποβολή" type="submit" class="myButton">
 		</form>
 </body>
