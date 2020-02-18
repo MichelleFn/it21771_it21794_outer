@@ -111,7 +111,7 @@ body {
 			<div class="topnav-right">
 				<div class="topnav">
 					<a href="/outerSystem/get">Φοιτητές που Αιτήθηκαν για Εργασία</a>
-  					<a href="/outerSystem/post">Υποβολή Πτυχιακής Εργασίας</a>
+  					<a href="/outerSystem/post">Υποβολή Πτυχιακής/Διπλωματικής Εργασίας</a>
 					  <a href="/outerSystem/about">About</a>
 					  <a href="/outerSystem/">Home</a>
 					</div>
@@ -122,7 +122,7 @@ body {
 	
 
 		<div align="center">
-<p>Καλώς Ήρθατε Στην Κεντρική Σελίδα Δηλώσεων Θεμάτων Πτυχιακής Εργασίας</p>
+			<p><b><font size="5">Καλώς Ήρθατε Στο Σύστημα Πτυχιακών/Διπλωματικών Εργασιών</font></b></p>
 	
 </body>
 </html>
